@@ -1,0 +1,98 @@
+a { 
+	color: #FFCCFF;
+	text-decoration: underline;	
+}
+
+a:hover {
+	color: #FF99CC;
+}
+
+BODY {
+	color: #663366;
+	background-color: #330033;
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 10px;
+	margin: 10px;
+}
+
+H1 {
+	color: #996666;
+	font-size: 18px;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+H2 {
+	color: #CC3333;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 2px;
+	text-align: left;
+}
+
+H3 {
+	color: #996666;
+	font-size: 12px;
+}
+
+TABLE {
+	margin: 0px auto;
+	padding: 0px;
+	width: 500px;
+}
+
+TH {
+	background-color: #330033;
+	color: #CC3333;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 2px;
+	text-align: center;
+}
+
+TD {
+	color: #FFFFFF;
+	font-size: 10px;
+	margin: 0px;
+	padding: 2px;
+	text-align: left;
+}
+
+#MAIN {
+	background-color: #663366;
+	margin: 10px auto;
+	padding: 0px;
+	height: auto;
+	width: 600px;
+}
+
+#HEADER {
+	color: #000000;
+	margin: 0px;
+	padding: 5px;
+	text-align: right;
+}
+
+#CONTENT {
+	color: #000000;
+	margin: 0px;
+	padding: 5px;
+	text-align: left;
+}
+
+#CREATURES {
+	background-color: #330033;
+	color: #CC3333;
+	text-align: left;
+}
+
+#FOOTER {
+	background-color: #330033;
+	color: #B2ADA4;
+	font-size: 9px;
+	margin: 0px;
+	padding: 5px;
+	text-align: left;
+}

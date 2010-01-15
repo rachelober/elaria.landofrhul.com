@@ -1,0 +1,145 @@
+Canine Whorlings
+Aughane - Female - http://mintkiss.net/elaria/myrror/caninew/aughane.php
+Colnn - Male - http://mintkiss.net/elaria/myrror/caninew/colnn.php
+Kichbel - Male - http://mintkiss.net/elaria/myrror/caninew/kichbel.php
+Non - Female - http://mintkiss.net/elaria/myrror/caninew/non.php
+
+Carhawox
+Kiroth - Female - http://mintkiss.net/elaria/myrror/carhawox/kiroth.php
+Veine - Male - http://mintkiss.net/elaria/myrror/carhawox/veine.php
+Zichia - Female - http://mintkiss.net/elaria/myrror/carhawox/zichia.php
+
+Dragon Whorlings
+Burdeno - Female - http://mintkiss.net/elaria/myrror/dragonw/burdeno.php
+Rothes - Female - http://mintkiss.net/elaria/myrror/dragonw/rothes.php
+Xedon - Male - http://mintkiss.net/elaria/myrror/dragonw/xedon.php
+
+Equine Whorlings
+Blyss - Mare - http://mintkiss.net/elaria/myrror/equinew/blyss.php
+Fannine - Mare - http://mintkiss.net/elaria/myrror/equinew/fannine.php
+Kalardo - Stallion - http://mintkiss.net/elaria/myrror/equinew/kalardo.php
+Schwarzer Dienstag - Mare - http://mintkiss.net/elaria/myrror/equinew/schwarzer.php
+
+Feline Whorlings
+Drileron - Female - http://mintkiss.net/elaria/myrror/felinew/drileron.php
+Heib - Male - http://mintkiss.net/elaria/myrror/felinew/heib.php
+Loth - Female - http://mintkiss.net/elaria/myrror/felinew/loth.php
+
+Gryphon Whorlings
+A'ranos - Female - http://mintkiss.net/elaria/myrror/gryphonw/aranos.php
+Engkim - Female - http://mintkiss.net/elaria/myrror/gryphonw/engkim.php
+Issel - Male - http://mintkiss.net/elaria/myrror/gryphonw/issel.php
+Laeld - Male - http://mintkiss.net/elaria/myrror/gryphonw/laeld.php
+
+Dieties
+Cinneas - Female - http://mintkiss.net/elaria/myrror/hcdieties/cinneas.php
+Guaillean - Male - http://mintkiss.net/elaria/myrror/hcdieties/guaillean.php
+Marwolaeth - Male - http://mintkiss.net/elaria/myrror/hcdieties/marwolaeth.php
+Solus - Female - http://mintkiss.net/elaria/myrror/hcdieties/solus.php
+
+Elementals
+Hin - Female - http://mintkiss.net/elaria/myrror/hcelementals/hin.php
+Bernest - Female - http://mintkiss.net/elaria/myrror/hcelementals/bernest.php
+Ceanus - Male - http://mintkiss.net/elaria/myrror/hcelementals/ceanus.php
+
+Huntercats
+Anor - Female - http://mintkiss.net/elaria/myrror/huntercats/anor.php
+Bebabeny - Male - http://mintkiss.net/elaria/myrror/huntercats/bebabeny.php
+Bing - Male - http://mintkiss.net/elaria/myrror/huntercats/bing.php
+Bliser - Male - http://mintkiss.net/elaria/myrror/huntercats/bliser.php
+Br'kaline - Male - http://mintkiss.net/elaria/myrror/huntercats/brkaline.php
+Catil - Female - http://mintkiss.net/elaria/myrror/huntercats/catil.php
+Cerran - Male - http://mintkiss.net/elaria/myrror/huntercats/cerran.php
+Divet - Male - http://mintkiss.net/elaria/myrror/huntercats/divet.php
+Dorin - Male - http://mintkiss.net/elaria/myrror/huntercats/dorin.php
+Enthim - Female - http://mintkiss.net/elaria/myrror/huntercats/enthim.php
+Femran - Female - http://mintkiss.net/elaria/myrror/huntercats/femran.php
+Garobe - Male - http://mintkiss.net/elaria/myrror/huntercats/garobe.php
+Huvun - Male - http://mintkiss.net/elaria/myrror/huntercats/huven.php
+Ibuico - Female - http://mintkiss.net/elaria/myrror/huntercats/ibuico.php
+Kasize - Female - http://mintkiss.net/elaria/myrror/huntercats/kasize.php
+Lakinitu - Female - http://mintkiss.net/elaria/myrror/huntercats/lakinitu.php
+Lanisa - Female - http://mintkiss.net/elaria/myrror/huntercats/lanisa.php
+Lujayn - Male - http://mintkiss.net/elaria/myrror/huntercats/lujayn.php
+Mulal - Female - http://mintkiss.net/elaria/myrror/huntercats/mulal.php
+Nezi - Female - http://mintkiss.net/elaria/myrror/huntercats/nezi.php
+N'honas - Female - http://mintkiss.net/elaria/myrror/huntercats/nhonas.php
+Nular - Male - http://mintkiss.net/elaria/myrror/huntercats/nular.php
+Nyadon - Female - http://mintkiss.net/elaria/myrror/huntercats/nyadon.php
+Raon - Female - http://mintkiss.net/elaria/myrror/huntercats/raon.php
+Riliri - Female - http://mintkiss.net/elaria/myrror/huntercats/riliri.php
+Saorm - Male - http://mintkiss.net/elaria/myrror/huntercats/saorm.php
+Senoh - Female - http://mintkiss.net/elaria/myrror/huntercats/senoh.php
+Sever - Male - http://mintkiss.net/elaria/myrror/huntercats/sever.php
+Sying - Male - http://mintkiss.net/elaria/myrror/huntercats/sying.php
+Talem - Male - http://mintkiss.net/elaria/myrror/huntercats/talem.php
+Ustrild - Female - http://mintkiss.net/elaria/myrror/huntercats/ustrild.php
+Verage - Female - http://mintkiss.net/elaria/myrror/huntercats/verage.php
+Vevil - Male - http://mintkiss.net/elaria/myrror/huntercats/vevil.php
+Xiticyse - Female - http://mintkiss.net/elaria/myrror/huntercats/xiticyse.php
+Zamot - Female - http://mintkiss.net/elaria/myrror/huntercats/zamot.php
+Zhitia - Male - http://mintkiss.net/elaria/myrror/huntercats/zhitia.php
+Zyfen - Female - http://mintkiss.net/elaria/myrror/huntercats/zyfen.php
+
+Leagi
+Cisth - Mare - http://mintkiss.net/elaria/myrror/leagi/cisth.php
+Nischit - Stallion - http://mintkiss.net/elaria/myrror/leagi/nischit.php
+Oslora - Mare - http://mintkiss.net/elaria/myrror/leagi/oslora.php
+Perxdra - Mare - http://mintkiss.net/elaria/myrror/leagi/perxdra.php
+Todasi - mare - http://mintkiss.net/elaria/myrror/leagi/todasi.php
+
+Mequis
+Garawem - Female - http://mintkiss.net/elaria/myrror/mequis/garawem.php
+Ightrothold - Female - http://mintkiss.net/elaria/myrror/mequis/ightrothold.php
+Johar - Female - http://mintkiss.net/elaria/myrror/mequis/johar.php
+Phyran - Male - http://mintkiss.net/elaria/myrror/mequis/phyran.php
+Shooshiver - Female - http://mintkiss.net/elaria/myrror/mequis/shooshiver.php
+Tianril - Male - http://mintkiss.net/elaria/myrror/mequis/tianril.php
+
+Okea'Tygre
+Acqua - Female - http://mintkiss.net/elaria/myrror/okeatygre/acqua.php
+Brynne - Male - http://mintkiss.net/elaria/myrror/okeatygre/brynne.php
+
+Randomized Whorlings
+Enartin - Male - http://mintkiss.net/elaria/myrror/randomizedw/enartin.php
+Luskwar - Female - http://mintkiss.net/elaria/myrror/randomizedw/luskwar.php
+Nyat - Male - http://mintkiss.net/elaria/myrror/randomizedw/nyat.php
+Orxale - Female - http://mintkiss.net/elaria/myrror/randomizedw/orxale.php
+
+Stormbringer Wolves
+Aarid - Male - http://mintkiss.net/elaria/myrror/stormbringers/aarid.php
+Sabbia - Male - http://mintkiss.net/elaria/myrror/stormbringers/sabbia.php
+
+Tigons
+Ciel Illimite - Female - http://mintkiss.net/elaria/myrror/tigons/ciel.php
+Freundvon Masse - Female - http://mintkiss.net/elaria/myrror/tigons/freundvon.php
+Heiliges Gras - Male - http://mintkiss.net/elaria/myrror/tigons/heiliges.php
+Nuages Parfaits - Male - http://mintkiss.net/elaria/myrror/tigons/nuages.php
+
+Weezel Whorlings
+Cihdra - Male - http://mintkiss.net/elaria/myrror/weezelw/cihdra.php
+Coefeu - Male - http://mintkiss.net/elaria/myrror/weezelw/coefeu.php
+Dyll - Female - http://mintkiss.net/elaria/myrror/weezelw/dyll.php
+Fourglace - Female - http://mintkiss.net/elaria/myrror/weezelw/fourglace.php
+Gygh - Male - http://mintkiss.net/elaria/myrror/weezelw/gygh.php
+Ildtia - Female - http://mintkiss.net/elaria/myrror/weezelw/ildtia.php
+Ner - Female - http://mintkiss.net/elaria/myrror/weezelw/nikk.php
+Nikk - Male - http://mintkiss.net/elaria/myrror/weezelw/nikk.php
+Nys - Female - http://mintkiss.net/elaria/myrror/weezelw/nys.php
+Snew - Male - http://mintkiss.net/elaria/myrror/weezelw/snew.php
+Sosen - Female - http://mintkiss.net/elaria/myrror/weezelw/sosen.php
+Sputnick - Male - http://mintkiss.net/elaria/myrror/weezelw/sputnick.php
+Stolor - Male - http://mintkiss.net/elaria/myrror/weezelw/stolor.php
+
+Wris'talora
+Morning Dew - Male - http://mintkiss.net/elaria/myrror/wristalora/morningdew.php
+
+Wynds
+Change be Weary - Stallion - http://mintkiss.net/elaria/myrror/wynds/change.php
+Faint of Breath - Mare - http://mintkiss.net/elaria/myrror/wynds/faint.php
+Green of Fields - Mare - http://mintkiss.net/elaria/myrror/wynds/green.php
+Leap of Daring - Mare - http://mintkiss.net/elaria/myrror/wynds/leap.php
+Magic of Heart - Mare - http://mintkiss.net/elaria/myrror/wynds/magic.php
+Quest of Truth - Stallion - http://mintkiss.net/elaria/myrror/wynds/quest.php
+Shadow of Darkness - Mare - http://mintkiss.net/elaria/myrror/wynds/shadow.php
+Slip of Tongue - Stallion - http://mintkiss.net/elaria/myrror/wynds/slip.php

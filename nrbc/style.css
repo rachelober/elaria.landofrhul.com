@@ -1,0 +1,144 @@
+a:hover { 
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+a {
+	color: #3399CC;
+	text-decoration: none;
+}
+
+BODY {
+	background-color: #000000;
+	color: #66819B;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;	
+}
+
+H1 {
+	color: #778899;
+	font-size: 25px;
+	font-weight: bold;
+	word-spacing: 15px;
+	letter-spacing: 15px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-bottom: -6px;
+	text-indent: 5px;
+}
+
+H2 {
+	color: #6D0037;
+	font-size: 18px;
+	letter-spacing: 10px;
+	text-align: left;
+	word-spacing: 5px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-indent: 10px;
+}
+
+H3 {
+	color: #999999;
+	font-size: 12px;
+	text-align: left;
+	word-spacing: 5px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+H4 {
+	color: #778899;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 10px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-top: -20px;
+	text-indent: 5px;
+}
+
+TABLE {
+	margin: 0 auto;
+	padding: 0px;
+	width: 300px;
+}
+
+TH {
+	background-color: #111111;
+	font-size: 10px;	
+	margin: 0px;
+	padding: 2px;
+}
+
+TD {
+	background-color: #000000;
+	font-size: 10px;
+	margin: 0px;
+	padding: 2px;
+}
+
+#MAIN {
+	height: auto;
+	margin: 0px 200px;
+	padding: 0px;
+	width: auto;
+}
+
+#HEADER {
+	background-color: #ECF5FD;
+	margin: 0px;
+	text-align: left;
+	padding: 0px;
+}
+
+#TITLE {
+	background-color: #000000;
+	margin: 0px;
+	text-align: left;
+	padding: 0px;
+}
+
+#CONTENT {
+	background-color: #000000;
+	border: 1px solid #778899;
+	margin: 0px;
+	text-align: left;
+	padding: 20px;	
+}
+
+#FOOTER {
+	background-color: #778899;	
+	color: #2C2C2C;
+	font-size: 9px;
+	margin: 0px;
+	text-align: center;
+	padding: 0px;
+}
+
+#SIDEBAR {
+	background-color: #000000;
+	border: thin solid #778899;
+	clear: both;
+	float: left;
+	height: auto;	
+	left: 100px;
+	padding: 5px;
+	position: relative;
+	top: 100px;
+	width: 89px;
+}
+
+#INFO {
+	background-color: #200010;
+	margin-top: 0px;
+	padding: 5px;
+}
+
+.highlight {
+	color: #FF6600;
+}
+
+#QUILT {
+	background-color: #000000;
+	font-size: 10px;
+	padding: 0px;
+	text-align: center;
+	width: auto;
+}

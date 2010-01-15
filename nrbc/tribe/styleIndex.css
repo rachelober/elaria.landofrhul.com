@@ -1,0 +1,20 @@
+body, p{
+
+font-size: 7pt;
+font-family: verdana;
+color: #ACACAC;
+}
+
+a:link, a:visited, a:active {
+  height: 1px;
+  color: #ACACAC;
+  text-decoration: none;
+  behavior: url(linkhilight.htc);
+  filter:progid:dximagetransform.microsoft.slide (duration=1)
+  }
+
+  
+a:hover { 
+  color : #2E5942; 
+  text-decoration: none; 
+  }

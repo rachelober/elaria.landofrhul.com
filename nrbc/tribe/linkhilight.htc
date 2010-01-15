@@ -1,0 +1,27 @@
+<public:component>
+<public:attach event="onmouseover" onevent="domouseover()">
+<public:attach event="onmouseout" onevent="domouseout()">
+
+<script language="javascript">
+
+function domouseover()
+{
+ with(element)
+ {
+  filters.item(0).Apply();
+  filters.item(0).Play();
+ }
+}
+
+function domouseout()
+{
+ with(element)
+ {
+  filters.item(0).Apply();
+  filters.item(0).Play();
+ }
+}
+
+</script>
+
+</public:component>

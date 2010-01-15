@@ -1,0 +1,50 @@
+a:link, a:visited, a:active {
+  color: #ACACAC;
+  height: 1px;  
+  text-decoration: underline;
+}
+  
+a:hover { 
+  color : #2E5942; 
+  text-decoration: none; 
+}
+  
+BODY, P{
+	color: #ACACAC;
+	font-size: 9px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+
+H1 {
+	color: #ACACAC;
+	font-size: 13px;
+}
+
+H2 {
+	color: #ACACAC;
+	font-size: 11px;
+}
+
+TABLE {
+	margin: 0px auto;
+	padding: 0px;
+	width: 400px;
+}
+
+TH {
+	background-color: #000000;
+	border: 1px solid #333333;
+	font-size: 10px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 2px;
+	text-align: center;
+}
+
+TD {
+	border: 1px solid #333333;
+	font-size: 10px;	
+	margin: 0px;
+	padding: 2px;
+	text-align: center;	
+}

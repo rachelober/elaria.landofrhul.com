@@ -1,0 +1,137 @@
+a { 
+	color: #FFCCFF;
+	text-decoration: none;	
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF6699;
+}
+
+BODY {
+	color: #663366;
+	background-color: #330033;
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 10px;
+	margin: 10px;
+}
+
+H1 {
+	color: #FF9900;
+	font-size: 24px;
+	font-weight: normal;
+	font-variant: small-caps;
+	margin: 0px;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+H2 {
+	color: #996666;
+	font-size: 16px;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-variant: small-caps;
+	border-top: solid 1px #996666;
+}
+
+#MAIN {
+	height: auto;
+	margin: 10px auto;
+	padding: 0px;
+	text-align: center;
+	width: 700px;
+}
+
+#HEADER {
+	border-bottom: solid 1px #000000;
+	color: #000000;
+	background-color: #663366;
+	margin: 0px;
+	padding: 5px;
+	text-align: right;
+}
+
+#NAVI {
+	color: #CC3333;
+	background-color: #3B183B;
+	clear: both;
+	height: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#CONTENT {
+	border-bottom: solid 3px #FF6699;
+	border-top: solid 3px #FF6699;
+	color: #000000;
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 20px;
+	text-align: left;
+}
+
+#FOOTER {
+	color: #B2ADA4;
+	background-color: #663366;
+	font-size: 9px;
+	margin: 0px;
+	padding: 5px;
+	text-align: left;
+}
+
+TABLE {
+	margin: 0px auto;
+	padding: 0px;
+	width: 450px;
+}
+
+TH {
+	background-color: #330033;
+	color: #CC3333;
+	font-size: 10px;
+	font-weight: bold;
+	margin: 5px;
+	padding: 5px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+TD {
+	background-color: #EFEFEF;
+	border: 1px solid #330033;
+	font-size: 10px;	
+	margin: 5px;	
+	padding: 5px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+TD a {
+	color: #CC66FF;
+}
+
+#ITEM{
+	border-left: solid 1px #000000;
+	display: block;
+	height: 14px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
+	width: 125px;
+	float: right;
+	line-height: 14px;
+}
+
+#ITEM a {
+	color: #CC3333;
+	display: block;
+	text-decoration: none;
+}
+
+#ITEM a:hover {
+	background-color: #755E75;
+	color: #CC9999;
+}
