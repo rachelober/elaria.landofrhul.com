@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Elaria -- <?php echo($animal); ?>: <?php echo($name); ?></title>
+<title>Elaria >> <?php echo($animal); ?> >> <?php echo($name); ?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="stylesheet" href="http://elaria.landofrhul.com/files/style.css" type="text/css">
 </head>
